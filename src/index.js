@@ -28,7 +28,7 @@ var questions = [
         ]
     },
     {
-        "What is the art of painting eggs is called?": [
+        "What is the art of painting eggs called?": [
             "pysanka",
             "egg painting",
             "gilding",
@@ -37,23 +37,23 @@ var questions = [
     },
     {
         "Americans buy millions of marshmallow Peeps during Easter, how many million?": [
-            "700",
-            "425",
-            "170",
-            "68"
+            "700 million",
+            "425 million",
+            "170 million",
+            "68 million"
         ]
     },
     {
         "Americans consume over 16 million jelly beans during Easter. How many times would they circle the globe?": [
-            "3",
-            "5",
-            "8",
-            "1"
+            "3 times",
+            "5 times",
+            "8 times",
+            "1 time"
         ]
     },
     {
         "Easter is celebrated by which religion?": [
-            "chirstianity",
+            "christianity",
             "hinduism",
             "buddhism",
             "judaism"
@@ -76,19 +76,19 @@ var questions = [
         ]
     },
     {
-        "75% of people eat what part of a chocolate bunny first?": [
-            "ears",
-            "tail",
-            "feet",
-            "nose"
+        "75% of people eat which part of a chocolate bunny first?": [
+            "the ears",
+            "the tail",
+            "the feet",
+            "the nose"
         ]
     },
     {
         "What percentage of adults prefer milk chocolate over dark chocolate?": [
-            "65",
-            "57",
-            "83",
-            "77"
+            "65 percent",
+            "57 percent",
+            "83 percent",
+            "77 percent"
         ]
     },
     {
@@ -109,10 +109,10 @@ var questions = [
     },
     {
         "The White House tradition of the Easter Egg Roll started in what year?": [
-            "1878",
-            "1964",
-            "1612",
-            "1921"
+            "eighteen seventy-eight",
+            "nineteen sixty-four",
+            "sixteen twelve",
+            "ninteen twenty-one"
         ]
     },
     {
@@ -132,19 +132,19 @@ var questions = [
         ]
     },
     {
-        "Easter celbrates which part of Jesus' life?": [
-            "ressurection",
+        "Easter celebrates which part of Jesus' life?": [
+            "resurrection",
             "birth",
             "ascension",
             "bar mitzvah"
         ]
     },
     {
-        "Good Friday is an offical holiday in how many states?": [
-            "12",
-            "2",
-            "38",
-            "46"
+        "Good Friday is an official holiday in how many states?": [
+            "12 states",
+            "2 states",
+            "38 states",
+            "46 states"
         ]
     },
     {
@@ -157,7 +157,7 @@ var questions = [
     },
     {
         "Easter gets its name from which goddess?": [
-            "eastre",
+            "eastray",
             "astraea",
             "eos",
             "hestia"
@@ -172,7 +172,7 @@ var questions = [
         ]
     },
     {
-        "Can rabbits lay eggs?": [
+        "Can a rabbit lay an egg?": [
             "not likely",
             "happens all the time",
             "only on easter",
@@ -181,7 +181,7 @@ var questions = [
     },
     {
         "Why is there no Easter Elf?": [
-            "there is, silly",
+            "Oh, but there is an Easter Elf",
             "his egg never hatched",
             "no one knows",
             "dragons ate him"
@@ -197,10 +197,10 @@ var questions = [
     },
     {
         "The first story of a rabbit hiding eggs in a garden was publsihed in which year?": [
-            "1680",
-            "1424",
-            "1779",
-            "1852"
+            "sixteen eighty",
+            "fourteen twentyfour",
+            "seventeen eleven",
+            "eighteen thirty"
         ]
     }
 ];
@@ -315,7 +315,7 @@ function getWelcomeResponse(callback) {
     var sessionAttributes = {},
         cardTitle = "Easter Trivia",
         speechOutput = "Easter Trivia. I will ask you " + GAME_LENGTH.toString() 
-            + " questions, try to get as many right as you can. Just say the number of the answer. Let's begin.",
+            + " questions, try to get as many right as you can. Just say the number of the answer. Let's begin. ",
         shouldEndSession = false,
 
         gameQuestions = populateGameQuestions(),
@@ -480,7 +480,7 @@ function handleGetHelpRequest(intent, session, callback) {
 function handleFinishSessionRequest(intent, session, callback) {
     // End the session with a "Good bye!" if the user wants to quit the game
     callback(session.attributes,
-        buildSpeechletResponseWithoutCard("Good bye!", "", true));
+        buildSpeechletResponseWithoutCard("Happy Easter. Bye bye.", "", true));
 }
 
 // ------- Helper functions to build responses -------
