@@ -20,187 +20,187 @@
  */
 var questions = [
 	{
-        "The tallest chocolate Easter egg was made in Italy in 2011, how much did it weigh?": [
-            "15,800 pounds",
-            "3,200 pounds",
-            "960 pounds",
-            "210 pounds"
+        "Since nineteen eight-six the winner of the tournament gets a very special gift, what is it?": [
+            "the hardwood court",
+            "all the basketballs",
+            "the nets",
+            "to host next year's final four"
         ]
     },
     {
-        "What is the art of painting eggs called?": [
-            "pysanka",
-            "egg painting",
-            "gilding",
-            "bisseling"
+        "At sixty-one years old, who was the oldest coach to win the tournament?": [
+            "Jim Caldwell",
+            "John Wooden",
+            "Dean Smith",
+            "Adolph Rupp"
         ]
     },
     {
-        "Americans buy millions of marshmallow Peeps during Easter, how many million?": [
-            "700 million",
-            "425 million",
-            "170 million",
-            "68 million"
+        "Which coach has the most single game wins in the tournament?": [
+            "Mike Krzyzewski",
+            "John Wooden",
+            "Dean Smith",
+            "Rick Pitino"
         ]
     },
     {
-        "Americans consume over 16 million jelly beans during Easter. How many times would they circle the globe?": [
-            "3 times",
-            "5 times",
-            "8 times",
-            "1 time"
+        "Which coach has the most tournament championships?": [
+            "John Wooden",
+            "Mike Krzyzewski",
+            "Bobby Knight",
+            "Adolph Rupp"
         ]
     },
     {
-        "Easter is celebrated by which religion?": [
-            "christianity",
-            "hinduism",
-            "buddhism",
-            "judaism"
+        "Which school has the most tournament appearances?": [
+            "Kentucky",
+            "North Carolina",
+            "U C L A",
+            "Louisville"
         ]
     },
     {
-        "The date that Easter is celebrated on is based on the?": [
-            "moon",
-            "sun",
-            "ocean tides",
-            "Isreal's parliament"
+        "Michigan State University has how many consecutive tournament appearances?": [
+            "eighteen appearances",
+            "nineteen appearances",
+            "fifthteen appearances",
+            "eleven appearances"
         ]
     },
     {
-        "More candy is consumed on Easter than any other holiday except one, which is it?": [
-            "halloween",
-            "christmas",
-            "valentines",
-            "thanksgiving"
+        "With sixty-one points, which player has scored the most points in a single tournament game?": [
+            "Austin Carr",
+            "David Robinson",
+            "Bill Bradley",
+            "Magic Johnson"
         ]
     },
     {
-        "75% of people eat which part of a chocolate bunny first?": [
-            "the ears",
-            "the tail",
-            "the feet",
-            "the nose"
+        "Who is the only player to record multiple triple doubles in the tournament?": [
+            "Draymond Green",
+            "Magic Johnson",
+            "Grant Hill",
+            "Dwyane Wade"
         ]
     },
     {
-        "What percentage of adults prefer milk chocolate over dark chocolate?": [
-            "65 percent",
-            "57 percent",
-            "83 percent",
-            "77 percent"
+        "What school won the tournament in nineteen eighty?": [
+            "Louisville",
+            "Indiana",
+            "Kentucky",
+            "Michigan State"
         ]
     },
     {
-        "Kids prefer which color jelly bean the most?": [
-            "red",
-            "yellow",
-            "green",
-            "white"
+        "What school won the tournament in nineteen sixty-four?": [
+            "U C L A",
+            "Duke",
+            "Cincinnati",
+            "Loyola"
         ]
     },
     {
-        "Chocolate eggs originated in which country?": [
-            "Germany",
-            "Austria",
-            "Switzerland",
-            "Ireland"
+        "What city has hosted the most final fours?": [
+            "Kansas City, Missouri",
+            "Indinappolis, Indiana",
+            "Los Angeles, California",
+            "Chicago, Illinois"
         ]
     },
     {
-        "The White House tradition of the Easter Egg Roll started in what year?": [
-            "eighteen seventy-eight",
-            "nineteen sixty-four",
-            "sixteen twelve",
-            "ninteen twenty-one"
+        "What school has won the men's and women's tournament in the same year?": [
+            "Connecticut",
+            "Kentucky",
+            "Tennessee",
+            "Louisville"
         ]
     },
     {
-        "What is the tradtional flower of Easter?": [
-            "white lillies",
-            "roses",
-            "carnations",
-            "tulips"
+        "Which coach has won the tournament with two different schools?": [
+            "Rick Patino",
+            "Bob Knight",
+            "Phil Woolpert",
+            "Larry Brown"
         ]
     },
     {
-        "The average US household spends how much on Easter candy?": [
-            "131 dollars",
-            "66 dollars",
-            "48 dollars",
-            "27 dollars"
+        "The lowest seed to ever win the tournament was?": [
+            "number eight",
+            "nubmer eleven",
+            "number seven",
+            "number thirteen"
         ]
     },
     {
-        "Easter celebrates which part of Jesus' life?": [
-            "resurrection",
-            "birth",
-            "ascension",
-            "bar mitzvah"
+        "In what year did all four number one seeds advance to the final four?": [
+            "two thousand eight",
+            "nineteen ninety-seven",
+            "two thousand two",
+            "nineteen eighty-seven"
         ]
     },
     {
-        "Good Friday is an official holiday in how many states?": [
-            "12 states",
-            "2 states",
-            "38 states",
-            "46 states"
+        "Who is the only coach to win the tournament and an NBA championship?": [
+            "Larry Brown",
+            "Rick Patino",
+            "Billy Donovan",
+            "Steve Kerr"
         ]
     },
     {
-        "Easter is celebrated in which season?": [
-            "spring",
-            "summer",
-            "fall",
-            "winter"
+        "What player has won the Most Outstanding Player three times?": [
+            "Lew Alcinder, A K A Kareem Abdul-Jabbar",
+            "Magic Johnson",
+            "Bill Russell",
+            "Hakeem Olajuwon"
         ]
     },
     {
-        "Easter gets its name from which goddess?": [
-            "eastray",
-            "astraea",
-            "eos",
-            "hestia"
+        "The frist year of the tournament was in nienteen thirty-nine. How many teams participated?": [
+            "eight teams",
+            "twelve teams",
+            "ten teams",
+            "sixteen teams"
         ]
     },
     {
-        "The Easter Bunny arrived in America with which group?": [
-            "Germans",
-            "Irish",
-            "Polish",
-            "Italians"
+        "How many different schools have won the tournament?": [
+            "thrity-five schools",
+            "forty-two schools",
+            "fourty-seven schools",
+            "fifty-six schools"
         ]
     },
     {
-        "Can a rabbit lay an egg?": [
-            "not likely",
-            "happens all the time",
-            "only on easter",
-            "what did your mother tell you?"
+        "How many times have all four number one seeds advanced to the final four?": [
+            "one time",
+            "six times",
+            "three times",
+            "five times"
         ]
     },
     {
-        "Why is there no Easter Elf?": [
-            "Oh, but there is an Easter Elf",
-            "his egg never hatched",
-            "no one knows",
-            "dragons ate him"
+        "Who was the frist broadcaster to use the term March Madness on air?": [
+            "Brent Musburger",
+            "Dick Vitale",
+            "Bob Costas",
+            "Marv Albert"
         ]
     },
     {
-        "What is the name of the man that created the jeweled eggs of Russain and James Bond fame?": [
-            "Fabergé",
-            "Tiffany",
-            "Gucci",
-            "Bulgari"
+        "What player has scored the most points in the tournament?": [
+            "Christian Laettner",
+            "Bill Russell",
+            "Lew Alcinder, A K A Kareem Abdul-Jabbar",
+            "Oscar Robinson"
         ]
     },
     {
-        "The first story of a rabbit hiding eggs in a garden was publsihed in which year?": [
-            "sixteen eighty",
-            "fourteen twentyfour",
-            "seventeen eleven",
-            "eighteen thirty"
+        "What is the only school in the power six conferences to never make it in to the tournament?": [
+            "Northwestern",
+            "Stanford",
+            "Temple",
+            "Rutgers"
         ]
     }
 ];
@@ -313,8 +313,8 @@ var ANSWER_COUNT = 4,
 
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
-        cardTitle = "Easter Trivia",
-        speechOutput = "Easter Trivia. I will ask you " + GAME_LENGTH.toString() 
+        cardTitle = "Tournament Trivia",
+        speechOutput = "Tournament Trivia. I will ask you " + GAME_LENGTH.toString() 
             + " questions, try to get as many right as you can. Just say the number of the answer. Let's begin. ",
         shouldEndSession = false,
 
@@ -376,7 +376,7 @@ function populateRoundAnswers(gameQuestions, index, correctAnswer) {
 }
 
 function handleAnswerRequest(intent, session, callback) {
-    var cardTitle = "Easter Trivia",
+    var cardTitle = "Tournament Trivia",
         speechOutput = "";
 
     var answerSlot = intent.slots.Answer;
@@ -480,7 +480,7 @@ function handleGetHelpRequest(intent, session, callback) {
 function handleFinishSessionRequest(intent, session, callback) {
     // End the session with a "Good bye!" if the user wants to quit the game
     callback(session.attributes,
-        buildSpeechletResponseWithoutCard("Happy Easter. Bye bye.", "", true));
+        buildSpeechletResponseWithoutCard("Bye bye.", "", true));
 }
 
 // ------- Helper functions to build responses -------
